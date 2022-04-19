@@ -233,6 +233,6 @@ ait açıklama, driver, cuda ve processleri görebilirsiniz.
 87. 
 
 
-
+!!! This is just the start... more is coming.
 
 
