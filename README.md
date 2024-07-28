@@ -12,7 +12,8 @@
 - Bu bir açık kaynak paylaşımdır. Tüm sistemler adına çalışıp çalıştırılmaması veya önceden çalışan bir sistemin üzerine kurulması - inşa edilmesinde bazı sürümlerin birbirini desteklememe gibi durumlar ile karşılaşılmaktadır.
 - En stabil işletim sistemi sürümü için bilgi paylaşımları araştırılmalıdır.
 - Sürüm notları ve yazılm gelişitirilmesi için kendi stabil işletim sistemi ve sürümlerinizin bilgilerine ihtiyacınız bulunmaktadır.
-- Benim kullanıdğım stabil sürümler ile sizlerin stabil sürümleri farklı donanım kullanımından kaynaklı olabilir. En iyi stabil sürümler için işinizi çözen sürümleri araştırmanız ve uygulamanız gerekmektedir.
+- Benim kullanıdğım stabil sürümler ile sizlerin stabil sürümleri farklı donanım ve yazılm sürümlerinden kullanımından kaynaklı olabilir. En iyi stabil sürümler için işinizi çözen sürümleri araştırmanız ve uygulamanız gerekmektedir.
+- Buradaki işlem aşamalarını kendi kurulum sürecinize göre kurgulayabilirsiniz. Kurulum işlem aşamaları aşagıdadır. 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
