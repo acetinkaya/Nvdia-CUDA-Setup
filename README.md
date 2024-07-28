@@ -1,9 +1,25 @@
 # Nvdia-CUDA-Gpu-Setup/Kurulumları
 
---------------------------------------------------GPU Kurulum basamaklarında ilk yapılacaklar-->>--------------------------------------------------
+--------------------------------------------------GPU Kurulumu Öncesinde Yapılması ve Belirlenmesi Gerekenler--------------------------------------------------
 
 - Anaconda Spyder Derleyicisi üzerinden kurulum işlem adımlarıdır. Diğer derleyiciler ve sürümler için kendi paylaşım sayfalarına ve sürüm notlarına bakınız. 
-- https://www.anaconda.com/ ve https://anaconda.org/anaconda/spyder üzerinden programları edinebilirsiniz. 
+- https://www.anaconda.com/ ve https://anaconda.org/anaconda/spyder üzerinden programları edinebilirsiniz.
+- Mail adresleriniz ile sistemlere kayıt olmanız bilgi paylaşımı açısından net bilgilere erişiminizde fayda sağlayacaktır.
+- Mevcut sisteminizdeki python sürümlerini ve kütüphane sürümlerini stabil versiyonlara gelitirilmesi gerekmektedir.
+- Bu bağlamda stabil işlem adımları için aşağıdaki yönergelere bakabilirsiniz.
+- Stabil işlem adımlarını elde edilmesinde işletim sisteminin türü, kaç bit üzerinden çalıştığı ve sürüm notlarını önceden edininiz....
+- Benim sistemlerimde çalışan en stabil sürüm aşağıdaır.
+- Bu bir açık kaynak paylaşımdır. Tüm sistemler adına çalışıp çalıştırılmaması veya önceden çalışan bir sistemin üzerine kurulması - inşa edilmesinde bazı sürümlerin birbirini desteklememe gibi durumlar ile karşılaşılmaktadır.
+- En stabil işletim sistemi sürümü için bilgi paylaşımları araştırılmalıdır.
+- Sürüm notları ve yazılm gelişitirilmesi için kendi stabil işletim sistemi ve sürümlerinizin bilgilerine ihtiyacınız bulunmaktadır.
+- Benim kullanıdğım stabil sürümler ile sizlerin stabil sürümleri farklı olabilir. En iyi stabil sürümler için işinizi çözen sürümleri araştırmanız ve uygulamanız gerekmektedir.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+- Bilgi paylaşıldıkça çoğaalır ve gelişir!!!
+
+--------------------------------------------------GPU Kurulum basamaklarında ilk yapılacaklar-->>--------------------------------------------------
+
 - prompt çalıştırılarak yeni bir çalışma alanı oluşturacağız. Bu'da  conda create -n gpucalismasi python=3.7
 - activate gpucalismasi
 - conda install tensorflow-gpu=1.15 (Cuda paketleri yüklü değilse uzun süre bekleme ile hata alınır!!!)
