@@ -2,7 +2,7 @@
 
 --------------------------------------------------GPU Kurulum basamaklarında ilk yapılacaklar-->>--------------------------------------------------
 
-- Anaconda yeni sürüm kurulum işlemi
+- Anaconda Spyder Derleyicisinin yeni sürümü için kurulum işlemleridir. 
 - prompt çalıştırılarak yeni bir çalışma alanı oluşturacağız. Bu'da  conda create -n gpucalismasi python=3.7
 - activate gpucalismasi
 - conda install tensorflow-gpu=1.15 (Cuda paketleri yüklü değilse uzun süre bekleme ile hata alınır!!!)
