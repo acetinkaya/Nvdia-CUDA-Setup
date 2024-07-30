@@ -27,7 +27,6 @@
 
 NOT: tensorflow-gpu=1.15 --> cudann-7.6.5 ve cuda10.0.0 sürümlerini destekler. diğerleri çalışmaz.
 	
-
 GPU Kurulum basamaklarında ikinci yapılacaklar-->>
 
 1. https://www.tensorflow.org/install/gpu​ // GPU Kurulum belgeleri hakkında bilgi
@@ -92,7 +91,7 @@ ait açıklama, driver, cuda ve processleri görebilirsiniz.
 
 27. komut satırına ---> python setup.py install yaz.
 
------------------------------------------------------------------------------- KURULUMLAR BİTİYOR------------------------------------------------
+-------------------<<<-------------------- KURULUMLAR BİTİYOR---------------------->>>--------------
 
 28. Anaconda navigatoru çalıştırarak ilgili sekmeden gpucalismasi bölümüne geç
 
