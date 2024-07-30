@@ -19,7 +19,7 @@
 
 - Bilgi paylaşıldıkça çoğaalır ve gelişir!!!
 
-----------------------------------GPU Kurulum basamaklarında ilk yapılacaklar-->>--------------------------------
+-------------------------------<<---GPU Kurulum basamaklarında ilk yapılacaklar-->>--------------------------------
 
 - prompt çalıştırılarak yeni bir çalışma alanı oluşturacağız. Bu'da  conda create -n gpucalismasi python=3.7
 - activate gpucalismasi
